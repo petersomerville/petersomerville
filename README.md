@@ -1,9 +1,9 @@
 Hi 👋 My name is Peter Somerville
-=================================
 
-Co-founder of Caparra
-AI-powered tools that give you DevOps superpowers
 ---------------------
+Co-founder of Caparra
+
+AI-powered tools that give you DevOps superpowers
 
 * 🌍  I'm based in Minneapolis, Minnesota
 * ✉️  You can contact me at peter \[at\] caparra.ai
