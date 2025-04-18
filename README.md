@@ -9,7 +9,7 @@ AI-powered tools that give you DevOps superpowers
 * ✉️  You can contact me at peter \[at\] caparra.ai
 * 🚀  I'm currently working on [Caparra](http://caparra.ai)
 
-### Skills
+### Learning About
 
 
 <p align="left">
