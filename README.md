@@ -1,4 +1,4 @@
-Hi 👋 My name is Peter Somerville
+## Hi, I am Peter Somerville
 
 ---------------------
 Co-founder of Caparra
@@ -6,8 +6,8 @@ Co-founder of Caparra
 AI-powered tools that help your team ship better code faster
 
 * 🌍  I'm based in Minneapolis, Minnesota
-* ✉️  You can contact me at peter \[at\] caparra.ai
-* 🚀  I'm currently working on [Caparra](http://caparra.ai)
+* ✉️  Email me at peter@caparra.ai
+* 🚀  I'm currently working on [Caparra](http://caparra.ai), a startup building [Zumbro](https://github.com/apps/zumbro-bot) to help teams define and apply engineering standards to improve teamwork, reduce technical debt, and ship better code faster.
 
 ### Learning About
 
