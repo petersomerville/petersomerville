@@ -6,7 +6,7 @@ Co-founder of Caparra
 AI-powered tools that help your team ship better code faster
 
 * 🌍  I'm based in Minneapolis, Minnesota
-* ✉️  Email me at peter@caparra.ai
+* ✉️  Email me at pesomerville @ gmail.com
 * 🚀  I'm currently working on [Caparra](http://caparra.ai), a startup building [Zumbro](https://github.com/apps/zumbro-bot) to help teams define and apply engineering standards to improve teamwork, reduce technical debt, and ship better code faster.
 
 ### Learning About
