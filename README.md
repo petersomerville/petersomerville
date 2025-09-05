@@ -1,6 +1,5 @@
 ## Veteran leader driving technology innovation
 
----------------------
 I help technology teams ship better code faster and build high-performing organizations. 
 
 Co-founder of Caparra, building AI-powered tools that help your team ship better code faster. Marine Corps veteran with expertise in fintech startups, team building, and fundraising. MBA from the University of Minnesota.
