@@ -2,11 +2,11 @@
 
 I help technology teams ship better code faster and build high-performing organizations. 
 
-Co-founder of Caparra, building AI-powered tools that help your team ship better code faster. Marine Corps veteran with expertise in fintech startups, team building, and fundraising. MBA from the University of Minnesota.
+Co-founder of Caparra, building AI-powered tools that help your team ship better code faster. veteran Marine Corps infantry officer with expertise in fintech startups, team building, and fundraising. MBA from the University of Minnesota.
 
 * 🌍  I'm based in Minneapolis, Minnesota
 * ✉️  Email me at pesomerville @ gmail.com
-* 🚀  I'm currently working on [Caparra](http://caparra.ai), a startup building [Zumbro](https://github.com/apps/zumbro-bot) to help teams define and apply engineering standards to improve teamwork, reduce technical debt, and ship better code faster.
+* 🚀  I've spent the past year working on [Caparra](http://caparra.ai), a startup building [Zumbro](https://github.com/apps/zumbro-bot), an AI agent that helps teams apply DevOps tools and techniques to improve teamwork, reduce technical debt, and ship better code faster.
 
 ### Learning About
 
