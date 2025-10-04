@@ -1,8 +1,10 @@
-## Veteran leader driving technology innovation
+## Startup founder building AI tools for software teams
 
-I help technology teams ship better code faster and build high-performing organizations. 
+Marine infantry officer turned technology leader: shipping products, building teams, solving hard problems
 
-Co-founder of Caparra, building AI-powered tools that help your team ship better code faster. veteran Marine Corps infantry officer with expertise in fintech startups, team building, and fundraising. MBA from the University of Minnesota.
+Co-founder of Caparra, building AI-powered tools for software teams. Marine Corps infantry officer turned startup founder with experience scaling fintech companies, raising capital, and building high-performing teams. MBA from University of Minnesota.
+
+I'm actively seeking my next role in technology leadership: whether leading engineering teams, driving product strategy, or building AI/ML capabilities at an early-stage company. I'm particularly interested in opportunities where I can bridge technical complexity with practical execution.
 
 * 🌍  I'm based in Minneapolis, Minnesota
 * ✉️  Email me at pesomerville @ gmail.com
